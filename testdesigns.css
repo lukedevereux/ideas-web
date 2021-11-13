@@ -8,5 +8,9 @@
 }
 
 .lookat {
-  background-color: burlywood;
+   color:aliceblue;
+  background-color: crimson;
+  border-width: thick;
+  border-style: solid;
+  border-color: black;
 }
