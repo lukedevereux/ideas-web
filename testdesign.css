@@ -1,0 +1,8 @@
+@charset "utf-8";
+title {
+  color:aliceblue;
+  background-color: crimson;
+  border-width: thick;
+  border-style: solid;
+  border-color: black;
+}
