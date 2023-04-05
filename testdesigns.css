@@ -21,3 +21,11 @@
   border-style:solid;
   border-color:black;
 }
+
+body {
+    font-family: monospace;
+}
+
+ul {
+    font-family: helvetica;
+}
